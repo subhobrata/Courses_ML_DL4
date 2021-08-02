@@ -1,5 +1,8 @@
 # Courses_ML_DL4
 
+# Recitation for 6.034 Artificial Intelligence at MIT, Fall 2016
+https://www.youtube.com/playlist?list=PLxymR0ZPfMmV-vGtvhvTeWHIcnh-bTjDI
+
 https://deeplearning.neuromatch.io/tutorials/intro.html
 
 https://actu.epfl.ch/news/how-will-machine-learning-change-science/
