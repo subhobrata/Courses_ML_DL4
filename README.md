@@ -11,6 +11,9 @@ https://www.youtube.com/playlist?list=PLfciLKR3SgqNvvqnWFh-AyznNsu8yWGPz
 https://deeplearning.neuromatch.io/tutorials/intro.html
 
 
+# cs273a
+https://www.youtube.com/playlist?list=PLaXDtXvwY-oDvedS3f4HW0b4KxqpJ_imw
+
 
 https://actu.epfl.ch/news/how-will-machine-learning-change-science/
 https://isa.epfl.ch/imoniteur_ISAP/!itffichecours.htm?ww_i_matiere=2954525563&ww_x_anneeacad=2301874322&ww_i_section=2141273&ww_i_niveau=&ww_c_langue=en
