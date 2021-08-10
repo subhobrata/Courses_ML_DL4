@@ -4,6 +4,13 @@
 https://introduction-to-machine-learning.netlify.app/
 https://www.youtube.com/channel/UCr4ZcPk0siqHBISY-OzFotQ/playlists
 
+# Geometric Deep Learing (GDL100)
+https://geometricdeeplearning.com/lectures/
+https://arxiv.org/abs/2104.13478
+
+# Deep learning for Molecules and Materials
+https://whitead.github.io/dmol-book/intro.html
+
 # Recitation for 6.034 Artificial Intelligence at MIT, Fall 2016
 https://www.youtube.com/playlist?list=PLxymR0ZPfMmV-vGtvhvTeWHIcnh-bTjDI
 https://www.youtube.com/playlist?list=PLfciLKR3SgqNvvqnWFh-AyznNsu8yWGPz
