@@ -27,6 +27,12 @@ https://whitead.github.io/dmol-book/intro.html
 # Princeton ORFE Deep Learning Theory 
 https://www.youtube.com/playlist?list=PL2mB9GGlueJj_FNjJ8RWgz4Nc_hCSXfMU
 
+
+# Practical Stats for Data Scientists Book
+https://www.youtube.com/playlist?list=PL3x6DOfs2NGiKx4kSh_YeLDoKYJRGn9pV
+https://www.rfordatasci.com/
+
+
 # Recitation for 6.034 Artificial Intelligence at MIT, Fall 2016
 https://www.youtube.com/playlist?list=PLxymR0ZPfMmV-vGtvhvTeWHIcnh-bTjDI
 https://www.youtube.com/playlist?list=PLfciLKR3SgqNvvqnWFh-AyznNsu8yWGPz
