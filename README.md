@@ -4,12 +4,25 @@
 https://introduction-to-machine-learning.netlify.app/
 https://www.youtube.com/channel/UCr4ZcPk0siqHBISY-OzFotQ/playlists
 
+# Programming for AI
+https://docs.google.com/document/d/1XmRNTM4mfrmyVNdGFQ9zE_OwcdpCBhZXusccAkAoEqU/edit
+https://www.youtube.com/playlist?list=PLLENHvsRRLjDHllrXj0B8sz5-4xVbisBL
+
+# Neuromatch deep learning course
+https://deeplearning.neuromatch.io/tutorials/intro.html
+
 # Geometric Deep Learing (GDL100)
 https://geometricdeeplearning.com/lectures/
 https://arxiv.org/abs/2104.13478
 
+# Advance ML/DL University Lectures
+https://docs.google.com/spreadsheets/u/0/d/1KYJ9Z8f76WZGYpT2E5sjr5gL-O35Lpjm-SMmU00fplk/htmlview
+
 # Deep learning for Molecules and Materials
 https://whitead.github.io/dmol-book/intro.html
+
+# Princeton ORFE Deep Learning Theory 
+https://www.youtube.com/playlist?list=PL2mB9GGlueJj_FNjJ8RWgz4Nc_hCSXfMU
 
 # Recitation for 6.034 Artificial Intelligence at MIT, Fall 2016
 https://www.youtube.com/playlist?list=PLxymR0ZPfMmV-vGtvhvTeWHIcnh-bTjDI
