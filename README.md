@@ -18,6 +18,9 @@ https://arxiv.org/abs/2104.13478
 # MDLW01 - Theory of deep learning
 https://www.youtube.com/playlist?list=PL9-ncTy2ag0GVGspC7hPxKPatotJ8vZkX
 
+# Optimization Geeks
+https://www.youtube.com/channel/UCJaL6SBbC7XaP7BbWKbR5nA/videos
+
 # Advance ML/DL University Lectures
 https://docs.google.com/spreadsheets/u/0/d/1KYJ9Z8f76WZGYpT2E5sjr5gL-O35Lpjm-SMmU00fplk/htmlview
 
