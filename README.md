@@ -30,6 +30,10 @@ https://docs.google.com/spreadsheets/u/0/d/1KYJ9Z8f76WZGYpT2E5sjr5gL-O35Lpjm-SMm
 # Deep learning for Molecules and Materials
 https://whitead.github.io/dmol-book/intro.html
 
+
+# Mathematical Foundation and Applications of Deep Learning
+https://www.youtube.com/channel/UCDGu5dwQ9pJeEEOr6hb3PnA/videos
+
 # Princeton ORFE Deep Learning Theory 
 https://www.youtube.com/playlist?list=PL2mB9GGlueJj_FNjJ8RWgz4Nc_hCSXfMU
 
