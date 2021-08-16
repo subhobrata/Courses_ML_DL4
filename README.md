@@ -1,5 +1,9 @@
 # Courses_ML_DL4
 
+# DLVU
+https://www.youtube.com/channel/UCYh1zKnwzrSjrO2Ae-akfTg/playlists
+http://peterbloem.nl/blog/transformers
+
 # Joydeep Dutta
 https://www.youtube.com/user/kamrupexpress/playlists
 
