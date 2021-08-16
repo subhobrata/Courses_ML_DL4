@@ -1,5 +1,8 @@
 # Courses_ML_DL4
 
+# Joydeep Dutta
+https://www.youtube.com/user/kamrupexpress/playlists
+
 # CompStat Munich
 https://introduction-to-machine-learning.netlify.app/
 https://www.youtube.com/channel/UCr4ZcPk0siqHBISY-OzFotQ/playlists
