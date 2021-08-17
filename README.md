@@ -1,5 +1,8 @@
 # Courses_ML_DL4
 
+# Interpretability and Explainability in Machine Learning
+https://interpretable-ml-class.github.io/
+
 # DLVU
 https://www.youtube.com/channel/UCYh1zKnwzrSjrO2Ae-akfTg/playlists
 http://peterbloem.nl/blog/transformers
