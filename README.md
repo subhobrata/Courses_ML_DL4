@@ -1,5 +1,8 @@
 # Courses_ML_DL4
 
+# Mathematics of Machine Learnin
+https://www.youtube.com/playlist?list=PLiud-28tsatL0MbfJFQQS7MYkrFrujCYp
+
 # Interpretability and Explainability in Machine Learning
 https://interpretable-ml-class.github.io/
 
