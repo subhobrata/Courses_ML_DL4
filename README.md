@@ -1,5 +1,8 @@
 # Courses_ML_DL4
 
+https://stats.stackexchange.com/questions/540498/which-approaches-exist-for-optimization-in-machine-learning
+https://stats.stackexchange.com/questions/172445/why-are-numerical-solutions-preferred-to-analytical-solutions
+
 # Mathematics of Machine Learnin
 https://www.youtube.com/playlist?list=PLiud-28tsatL0MbfJFQQS7MYkrFrujCYp
 
