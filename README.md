@@ -1,5 +1,7 @@
 # Courses_ML_DL4
 
+https://nn.labml.ai/adaptive_computation/ponder_net/index.html
+
 https://stats.stackexchange.com/questions/540498/which-approaches-exist-for-optimization-in-machine-learning
 https://stats.stackexchange.com/questions/172445/why-are-numerical-solutions-preferred-to-analytical-solutions
 
