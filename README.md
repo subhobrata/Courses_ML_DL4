@@ -1,5 +1,8 @@
 # Courses_ML_DL4
 
+# Constantine Caramanis- optimization
+https://www.youtube.com/channel/UCSv1_NZITsPl-abaCWtRrJg/playlists
+
 https://nn.labml.ai/adaptive_computation/ponder_net/index.html
 
 https://stats.stackexchange.com/questions/540498/which-approaches-exist-for-optimization-in-machine-learning
