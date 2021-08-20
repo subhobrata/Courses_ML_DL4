@@ -1,5 +1,11 @@
 # Courses_ML_DL4
 
+# Differential Privacy in Machine Learning and Stats
+https://www.youtube.com/channel/UChhB2ULTBIy0C4Pm4a5kVSA/playlists?app=desktop&view=1&sort=dd&flow=grid
+
+# Numerical Linear Algebra Group Department of Mathematics, The University of Manchester
+https://nla-group.org/new-directions-in-numerical-linear-algebra-and-high-performance-computing-2020/
+
 # Constantine Caramanis- optimization
 https://www.youtube.com/channel/UCSv1_NZITsPl-abaCWtRrJg/playlists
 
