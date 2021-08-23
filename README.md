@@ -1,5 +1,11 @@
 # Courses_ML_DL4
 
+# "Introduction to model theory
+https://www.youtube.com/playlist?list=PLoWHl5YajIf5ZwhGrgiZkM_9X_UGCkbm7
+
+# Ajey Chahal
+https://www.youtube.com/channel/UCN2rmbuaGXVUv6p2NNugsIA/playlists
+
 # Differential Privacy in Machine Learning and Stats
 https://www.youtube.com/channel/UChhB2ULTBIy0C4Pm4a5kVSA/playlists?app=desktop&view=1&sort=dd&flow=grid
 
