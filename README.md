@@ -1,5 +1,8 @@
 # Courses_ML_DL4
 
+# Subbarao Kambhampati
+https://www.youtube.com/c/subbarao2z2/playlists
+
 # "Introduction to model theory
 https://www.youtube.com/playlist?list=PLoWHl5YajIf5ZwhGrgiZkM_9X_UGCkbm7
 
