@@ -1,5 +1,7 @@
 # Courses_ML_DL4
 
+https://sites.ualberta.ca/~ahamann/teaching/renr690/index.html
+
 # Deep Learning Drizzle  
 https://deep-learning-drizzle.github.io/
 
