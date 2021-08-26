@@ -2,6 +2,12 @@
 
 https://sites.ualberta.ca/~ahamann/teaching/renr690/index.html
 
+https://matheusfacure.github.io/python-causality-handbook/landing-page.html
+
+https://rasmuspagh.net/courses/APX21/
+
+https://brice.loustau.eu/teaching/TUDarmstadt/Manifolds2020/
+
 # Deep Learning Drizzle  
 https://deep-learning-drizzle.github.io/
 
