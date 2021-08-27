@@ -1,5 +1,8 @@
 # Courses_ML_DL4
 
+# Institute of Mathematical Statistics
+https://www.youtube.com/channel/UCj1ZUltS7SVtNNOhIAhB_kA
+
 https://arthurdouillard.com/deepcourse/
 
 https://sites.ualberta.ca/~ahamann/teaching/renr690/index.html
