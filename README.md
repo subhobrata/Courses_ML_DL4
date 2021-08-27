@@ -1,5 +1,7 @@
 # Courses_ML_DL4
 
+https://arthurdouillard.com/deepcourse/
+
 https://sites.ualberta.ca/~ahamann/teaching/renr690/index.html
 
 https://matheusfacure.github.io/python-causality-handbook/landing-page.html
