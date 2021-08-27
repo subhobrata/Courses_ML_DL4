@@ -7,6 +7,8 @@ https://arthurdouillard.com/deepcourse/
 
 https://sites.ualberta.ca/~ahamann/teaching/renr690/index.html
 
+http://www.stat.yale.edu/~yw562/teaching/it-stats.pdf
+
 https://matheusfacure.github.io/python-causality-handbook/landing-page.html
 
 https://rasmuspagh.net/courses/APX21/
