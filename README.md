@@ -1,5 +1,9 @@
 # Courses_ML_DL4
 
+#
+https://lyryx.com/linear-algebra-applications/
+https://www.youtube.com/user/lyryxlearning/videos
+
 https://sites.ualberta.ca/~ahamann/teaching/renr480/index.html
 
 # Institute of Mathematical Statistics
