@@ -1,6 +1,8 @@
 # Courses_ML_DL4
 
 #
+
+https://ece.uwaterloo.ca/~ne112/Lecture_materials/
 https://lyryx.com/linear-algebra-applications/
 https://www.youtube.com/user/lyryxlearning/videos
 
