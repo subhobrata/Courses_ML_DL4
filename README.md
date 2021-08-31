@@ -1,6 +1,8 @@
 # Courses_ML_DL4
 
-#
+# Deep learning fall 2021
+https://www.youtube.com/playlist?list=PL-fZD610i7yB7gDnPDpFcKpHI9X8z3OQ7
+
 https://complex-analysis.com/
 https://sites.google.com/view/diffsmoothing
 https://ece.uwaterloo.ca/~ne112/Lecture_materials/
