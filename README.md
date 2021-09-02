@@ -1,5 +1,8 @@
 # Courses_ML_DL4
 
+# Yish Lim
+https://www.youtube.com/channel/UCERMLDFyZBWsh1lTYoY_8cA/playlists
+
 # Deep learning fall 2021
 https://www.youtube.com/playlist?list=PL-fZD610i7yB7gDnPDpFcKpHI9X8z3OQ7
 
