@@ -1,5 +1,8 @@
 # Courses_ML_DL4
 
+# Elements of Data Science
+https://allendowney.github.io/ElementsOfDataScience/README.html
+
 # André Eugenio Lazzaretti
 https://sites.google.com/site/andrelazzaretti/graduate-courses/deep-learning-cpgei
 https://www.youtube.com/channel/UCS61lPi9Oef2R1YC-ynIv7w/videos
