@@ -1,5 +1,8 @@
 # Courses_ML_DL4
 
+# 김승룡[ 조교수 / 컴퓨터학과 ]
+https://www.youtube.com/channel/UCro6IqfE5NOspKCDusilfmw/playlists
+
 # Elements of Data Science
 https://allendowney.github.io/ElementsOfDataScience/README.html
 
