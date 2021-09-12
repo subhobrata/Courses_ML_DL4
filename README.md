@@ -1,5 +1,11 @@
 # Courses_ML_DL4
 
+# information retrieval 2021
+https://www.youtube.com/playlist?list=PLie-I-kcWTiZjzE50LmLq676K-v6Mmftg
+
+# Rebecca Willett, University of Chicago
+https://voices.uchicago.edu/willett/teaching/stats37710-cmsc35400-s20/
+
 # Professor Butler
 https://www.calc4.org/
 https://www.youtube.com/c/ProfessorButler/playlists
