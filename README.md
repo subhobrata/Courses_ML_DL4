@@ -1,5 +1,9 @@
 # Courses_ML_DL4
 
+# Minjoon Seo
+https://seominjoon.github.io/kaist-ai605/
+https://www.youtube.com/c/MinjoonSeo329/playlists
+
 # UCF CRCV
 https://www.youtube.com/user/UCFCRCV/playlists
 
