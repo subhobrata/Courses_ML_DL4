@@ -1,5 +1,8 @@
 # Courses_ML_DL4
 
+# Inferring Concept Drift Without Labeled Data
+https://concept-drift.fastforwardlabs.com/
+
 # Minjoon Seo
 https://seominjoon.github.io/kaist-ai605/
 https://www.youtube.com/c/MinjoonSeo329/playlists
