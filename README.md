@@ -1,5 +1,9 @@
 # Courses_ML_DL4
 
+# Advanced Engineering Mathematics
+https://www.youtube.com/watch?v=uhbVkHcL9S8&t=189s
+
+
 https://aykuterdem.github.io/classes/comp550/
 https://github.com/craffel/dl3d-seminar
 https://github.com/alecjacobson/seminar-on-geometry-and-animation
