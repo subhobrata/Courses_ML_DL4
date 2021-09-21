@@ -1,5 +1,9 @@
 # Courses_ML_DL4
 
+https://aykuterdem.github.io/classes/comp550/
+https://github.com/craffel/dl3d-seminar
+https://github.com/alecjacobson/seminar-on-geometry-and-animation
+
 # Inferring Concept Drift Without Labeled Data
 https://concept-drift.fastforwardlabs.com/
 
