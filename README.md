@@ -1,5 +1,7 @@
 # Courses_ML_DL4
 
+https://ona-book.org/
+
 
 # EECS 4422/5323 Computer Vision Fall 2021
 https://www.eecs.yorku.ca/~kosta/Courses/EECS4422-F21/
