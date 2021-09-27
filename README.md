@@ -1,5 +1,8 @@
 # Courses_ML_DL4
 
+# Arash Ash(Neuro Match Academy)
+https://www.youtube.com/channel/UCHJjDMb91k-0o_3Yx0qC0Mw/playlists
+
 # recluze
 https://www.youtube.com/watch?v=qbt4XbI29QQ&list=PLnd7R4Mcw3rIpsOe-lijX3jtpUwPmK8n6&index=3
 https://github.com/recluze/numerical-computing-cs/tree/master/notes-pdf
