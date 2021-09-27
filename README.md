@@ -1,5 +1,8 @@
 # Courses_ML_DL4
 
+# Carlos Fernandez-Granda
+https://www.youtube.com/channel/UCz2y8mrHYbi4MCpHsahZ32Q/playlists
+
 # Arash Ash(Neuro Match Academy)
 https://www.youtube.com/channel/UCHJjDMb91k-0o_3Yx0qC0Mw/playlists
 
