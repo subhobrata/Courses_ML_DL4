@@ -1,5 +1,8 @@
 # Courses_ML_DL4
 
+#
+https://jmshea.github.io/intro-data-science-for-engineers/intro/intro.html
+
 # Carlos Fernandez-Granda
 https://www.youtube.com/channel/UCz2y8mrHYbi4MCpHsahZ32Q/playlists
 
