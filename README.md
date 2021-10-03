@@ -1,5 +1,9 @@
 # Courses_ML_DL4
 
+
+#
+https://github.com/GeostatsGuy/PythonNumericalDemos
+
 #
 https://jmshea.github.io/intro-data-science-for-engineers/intro/intro.html
 
