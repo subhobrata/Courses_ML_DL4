@@ -1,6 +1,8 @@
 # Courses_ML_DL4
 
 
+https://shainarace.github.io/LinearAlgebra/
+
 #
 https://github.com/GeostatsGuy/PythonNumericalDemos
 
