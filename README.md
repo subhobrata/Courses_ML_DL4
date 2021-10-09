@@ -1,6 +1,12 @@
 # Courses_ML_DL4
 
 
+#
+https://probability4datascience.com/
+
+#
+https://duchesnay.github.io/pystatsml/
+
 https://shainarace.github.io/LinearAlgebra/
 
 #
