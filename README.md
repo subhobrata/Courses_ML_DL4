@@ -1,6 +1,9 @@
 # Courses_ML_DL4
 
 #
+https://bayesoptbook.com/
+
+#
 http://datasciencemasters.org/
 
 
