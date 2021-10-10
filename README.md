@@ -1,5 +1,8 @@
 # Courses_ML_DL4
 
+# Julius Pfrommer
+https://www.youtube.com/channel/UCEeiU4rIy9bzhuglYwUFl_g/playlists
+
 #
 https://bayesoptbook.com/
 
