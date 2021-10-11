@@ -1,5 +1,9 @@
 # Courses_ML_DL4
 
+
+# Speech and Language Processing 
+https://web.stanford.edu/~jurafsky/slp3/
+
 # Julius Pfrommer
 https://www.youtube.com/channel/UCEeiU4rIy9bzhuglYwUFl_g/playlists
 
