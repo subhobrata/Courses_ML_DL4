@@ -1,5 +1,8 @@
 # Courses_ML_DL4
 
+# Ross Dynamics Lab
+https://www.youtube.com/watch?v=bOpxQ7hGpmM&list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK&index=2
+
 
 # Speech and Language Processing 
 https://web.stanford.edu/~jurafsky/slp3/
