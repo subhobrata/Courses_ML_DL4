@@ -1,5 +1,11 @@
 # Courses_ML_DL4
 
+# 
+https://github.com/prathimacode-hub/ML-ProjectKart
+
+#
+https://courses.smp.uq.edu.au/MATH2504/
+
 # Joonseok Lee
 https://www.youtube.com/user/Joonseok2010/playlists
 
