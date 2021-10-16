@@ -1,5 +1,8 @@
 # Courses_ML_DL4
 
+# DeepMath 2019
+https://www.youtube.com/playlist?list=PLWQvhvMdDChzsThHFe4lYAff3pu2m0v2H
+
 # 
 https://github.com/prathimacode-hub/ML-ProjectKart
 
