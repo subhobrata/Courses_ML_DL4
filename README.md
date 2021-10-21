@@ -8,6 +8,9 @@ https://github.com/Harvard-IACS/2021-ComputeFest
 # Erdem Akagündüz
 https://www.youtube.com/channel/UCQlfzrQCOF7hYnw6cqekr1A/playlists
 
+#
+https://twitter.com/s_scardapane/status/1451212233929809923
+
 
 # Applied Machine Learning
 https://github.com/UBC-CS/cpsc330
