@@ -5,6 +5,15 @@ https://github.com/BoltzmannEntropy/interviews.ai
 #
 https://github.com/Harvard-IACS/2021-ComputeFest
 
+# Erdem Akagündüz
+https://www.youtube.com/channel/UCQlfzrQCOF7hYnw6cqekr1A/playlists
+
+
+# Applied Machine Learning
+https://github.com/UBC-CS/cpsc330
+https://www.youtube.com/channel/UC40oUwJPrUmhsYdURk8OjqA/playlists
+
+
 #
 https://www.mathcha.io/
 
