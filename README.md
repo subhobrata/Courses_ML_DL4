@@ -8,8 +8,10 @@ https://github.com/Harvard-IACS/2021-ComputeFest
 # Erdem Akagündüz
 https://www.youtube.com/channel/UCQlfzrQCOF7hYnw6cqekr1A/playlists
 
-#
+# Neural Networks for Data Science Applications
 https://twitter.com/s_scardapane/status/1451212233929809923
+https://www.sscardapane.it/teaching/nnds-2021/
+passcode n$twork21
 
 
 # Applied Machine Learning
