@@ -36,6 +36,9 @@ https://www.youtube.com/playlist?list=PLWQvhvMdDChzsThHFe4lYAff3pu2m0v2H
 # 
 https://github.com/prathimacode-hub/ML-ProjectKart
 
+# Recommendation Systems in ML
+https://www.youtube.com/channel/UC_LOWnNhQgAQ0TkqCCKX5OA/videos
+
 #
 https://courses.smp.uq.edu.au/MATH2504/
 
