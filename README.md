@@ -14,6 +14,9 @@ https://www.sscardapane.it/teaching/nnds-2021/
 passcode n$twork21
 
 
+#
+https://github.com/APMLA-2021/APMLA-WS_21-22_material
+
 # Applied Machine Learning
 https://github.com/UBC-CS/cpsc330
 https://www.youtube.com/channel/UC40oUwJPrUmhsYdURk8OjqA/playlists
