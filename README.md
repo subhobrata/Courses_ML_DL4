@@ -1,4 +1,8 @@
 # Courses_ML_DL4
+
+# Foundations of Data Science
+https://www.youtube.com/channel/UCHxCgxeMzE3vkxVsqyudzdA/videos
+
 #
 https://github.com/BoltzmannEntropy/interviews.ai
 
