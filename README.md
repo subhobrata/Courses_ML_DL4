@@ -1,5 +1,14 @@
 # Courses_ML_DL4
 
+# Keras Model Walkthrough
+https://lukewood.xyz/blog/keras-model-walkthrough
+
+# Scikit-learn
+https://www.youtube.com/playlist?list=PLM-1QqX7UksT6tREbR-n9Mhup0OoRBU34
+
+#
+http://implicit-layers-tutorial.org/
+
 # Foundations of Data Science
 https://www.youtube.com/channel/UCHxCgxeMzE3vkxVsqyudzdA/videos
 
