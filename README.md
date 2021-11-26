@@ -1,5 +1,9 @@
 # Courses_ML_DL4
 
+#
+http://www.cs.mun.ca/~dchurchill/teaching.shtml
+https://www.youtube.com/playlist?list=PL_xRyXins84_KZcXNu8ZJEo3874cjlMA9
+
 # Keras Model Walkthrough
 https://lukewood.xyz/blog/keras-model-walkthrough
 
